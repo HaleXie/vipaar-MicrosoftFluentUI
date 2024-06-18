@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "vipaar-MicrosoftFluentUI"
-    s.version      = HLSDKVersion
+    s.version      = '0.3.9'
     s.summary      = "The build script forMicrosoftFluentUI"
     s.homepage     = "https://github.com/microsoft/fluentui-apple"
     s.license      = 'Copyright VIPAAR 2024'
